@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Base</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M256,502 C391.862048,502 502,391.862048 502,256 C502,120.137952 391.862048,10 256,10 C120.137952,10 10,120.137952 10,256 C10,391.862048 120.137952,502 256,502 Z M256,512 C114.615104,512 0,397.384896 0,256 C0,114.615104 114.615104,0 256,0 C397.384896,0 512,114.615104 512,256 C512,397.384896 397.384896,512 256,512 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="512" height="512" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="512" stroke="#4A4A4A">
+            <g id="Base">
+                <use id="Oval" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                <polygon id="Path" points="300.445748 391.402241 266.354106 293.659291 173.886364 293.659291 137.926686 391.402241 172.952346 391.402241 172.952346 400 101.5 400 101.5 391.402241 123.449413 391.402241 242.536657 80.5253598 280.831378 80.5253598 398.517595 391.402241 420 391.402241 420 400 267.288123 400 267.288123 391.402241"></polygon>
+                <polygon id="Path" points="221.898827 165 178 283.558578 262.528592 283.558578"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
